@@ -1,0 +1,3 @@
+[submodule "autentificación"]
+	path = autentificación
+	url = https://github.com/PaulaTole/Arquitectura_Software.git
