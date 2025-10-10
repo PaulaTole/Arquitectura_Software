@@ -1,0 +1,7 @@
+{
+  "name": "Fron_Inscripsiones",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
